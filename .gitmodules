@@ -4,3 +4,6 @@
 [submodule "NeoPixel"]
 	path = NeoPixel
 	url = git@github.com:opensourcegarden/NeoPixel.git
+[submodule "OSGArduino"]
+	path = OSGArduino
+	url = git@github.com:goslund/OSGArduino.git
