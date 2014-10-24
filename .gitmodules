@@ -7,3 +7,6 @@
 [submodule "OSGArduino"]
 	path = OSGArduino
 	url = git@github.com:goslund/OSGArduino.git
+[submodule "OSGEthernetTools"]
+	path = OSGEthernetTools
+	url = git@github.com:opensourcegarden/OSGEthernetTools.git
