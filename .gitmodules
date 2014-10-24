@@ -1,3 +1,6 @@
 [submodule "MasterWireTools"]
 	path = MasterWireTools
 	url = git@github.com:opensourcegarden/MasterWireTools.git
+[submodule "NeoPixel"]
+	path = NeoPixel
+	url = git@github.com:opensourcegarden/NeoPixel.git
