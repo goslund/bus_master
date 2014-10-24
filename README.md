@@ -4,4 +4,4 @@ This codebase will install all the files needed to build the master devices for 
 #Download
 This module is made up of several submodules. To download the submodules, do the following:
 
->git clone --recursive git@github.com:opensourcegarden/bus_mega1.git
+>git clone --recursive git@github.com:goslund/bus_master.git
